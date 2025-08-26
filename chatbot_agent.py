@@ -157,7 +157,7 @@ def main():
     chat_history = []
     
     while True:
-        user_query = input("\n👤 You: ")
+        user_query = input("\nYou: ")
         if user_query.lower() in ["quit", "exit"]:
             print("Goodbye!")
             break

@@ -38,8 +38,8 @@ This project is structured as a Python application with a clear separation betwe
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-directory>
+    git clone <repo-url>
+    cd <repo-directory>
     ```
 
 2.  **Create and activate a virtual environment:**
