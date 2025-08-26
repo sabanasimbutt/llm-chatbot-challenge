@@ -150,7 +150,7 @@ def main():
     """
     Runs the main interactive chat session with conversation memory.
     """
-    print("Generative AI Chatbot Session Started 🎉")
+    print("Generative AI Chatbot Session Started")
     print("Type 'quit' or 'exit' to end the session.")
     
     # Initialize the chat history
